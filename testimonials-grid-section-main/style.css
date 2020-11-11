@@ -26,6 +26,11 @@ body {
     font-size: 13px;
 }
 
+main {
+    display: flex;
+    flex-direction: column;
+}
+
 .container {
     height: 90%;
     width: 80%;
